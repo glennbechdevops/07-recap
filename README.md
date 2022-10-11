@@ -26,6 +26,7 @@ Relevant info
 * Sett opp _main_ branch som en beskyttet branch, slik at ingen kan comitte direkte men kun via pull request. 
 * Legg til en medstudent som collaborator på ditt repository og lag en regel som sier at en pull request trenger minst en godkjenning før den kan merges. 
 * For å enklere kunne jobbe, kan dere godt fjerne denne reglen før dere går videre. 
+* Hvis du ikke får branch protection til å fungere, altså at du fortsatt får lov til å gjøre commit mot main må du slå på regelen "Do not allow bypassing the above settings"
 
 Relevant info 
 
