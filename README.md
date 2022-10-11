@@ -3,8 +3,11 @@
 I denne øvingen skal dere jobbe selvstendig med det vi har lært i PGR301 så langt. Hensikten er at dere, uten instruksjoner, skal være i stand til å lage et utviklingsmiljø som tilfredstiller gode DevOps prinsipper for flyt uten detaljerte instruksjoner. 
 Dere står fritt til å improvisere denne øvingen og gjøre ting i den rekkefølgen dere vil men her er et forslag ; 
 
+* Den første deleten av øvingen, når dere oppretter repository i GitHub, lager Spring boot app osv - er det enklest å jobbe på 
+egen maskin, ikke i Cloud 9
+
 * Et Cloud9 miljø er laget for dere som "vanlig" https://244530008913.signin.aws.amazon.com/console
- * Et ECR repository er laget for dere som heter <studentnavn>-private
+ * Et ECR repository er laget for dere som heter "studentnavn"-private
 
 Resten må klare selv, lykke til!
 
@@ -45,7 +48,7 @@ Relevant info
 
 ## AWS Lamba og SAM
 
-* Fra terminaleni i Cloud9, gjør en ```sam init``` og lag et nytt SAM prosjekt for Javascript eller Python
+* Fra terminalen i Cloud9, gjør en ```sam init``` og lag et nytt SAM prosjekt for Javascript eller Python
 * Se på koden som blir laget, og test ut ```sam build --use-container``` osv
 * Det er ikke viktig å lage en github actions forkflow for SAM, vi øver det samme prinsippet med Docker/Java senere.
 
