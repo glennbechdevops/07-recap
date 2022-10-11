@@ -45,7 +45,7 @@ Relevant info
 
 ## AWS Lamba og SAM
 
-* Fra terminaleni i Cloud9, gjør en ```sam init``` og lag et nytt SAM prosjekt for Javascript eller Python
+* Fra terminalen i Cloud9, gjør en ```sam init``` og lag et nytt SAM prosjekt for Javascript eller Python
 * Se på koden som blir laget, og test ut ```sam build --use-container``` osv
 * Det er ikke viktig å lage en github actions forkflow for SAM, vi øver det samme prinsippet med Docker/Java senere.
 
