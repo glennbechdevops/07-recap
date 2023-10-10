@@ -60,7 +60,7 @@ Relevant info
 ## Hemmeligheter
 
 * Finn AWS brukeren din og lag access keys
-* Konfigurer GitHub repositoryet ditt med repository secrets, slik at cloud 9 får tilgang til AWS som din bruker 
+* Konfigurer GitHub repositoryet ditt med repository secrets, slik at GitHub Actions får tilgang til AWS som din bruker 
 
 Relevant info
 
